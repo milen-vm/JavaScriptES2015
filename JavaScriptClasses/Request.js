@@ -1,6 +1,6 @@
 class Request {
 
-    constructor (method, uri, version, message, response = undefined, fulfilled = false) {
+    constructor(method, uri, version, message, response = undefined, fulfilled = false) {
         this.method = method;
         this.uri = uri;
         this.version = version;

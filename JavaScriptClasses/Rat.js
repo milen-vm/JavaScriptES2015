@@ -1,6 +1,6 @@
 class Rat {
 
-    constructor (name){
+    constructor(name){
         this.name = name;
         this.united = [];
     }
